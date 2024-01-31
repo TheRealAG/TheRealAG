@@ -2,7 +2,6 @@
 - 👀 I’m interested in Quant Trading and Crypto
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Algorthmic Trading
-- 📫 How to reach me alessandro.greco10@icloud.com
 - 😄 Pronouns: He/Him
 
 <!---
